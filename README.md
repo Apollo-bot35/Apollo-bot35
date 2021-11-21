@@ -9,6 +9,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...sql
 - 📫 How to reach me: ...by Instagram
-- 😄 Pronouns: ...Sensitive
-- ⚡ Fun fact: ...Nothing much
+
 
