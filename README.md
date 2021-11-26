@@ -1,5 +1,4 @@
-### Hi there 👋
-My recent launchhttps://github.com/Apollo-bot35/Apollo-bot35/edit/master/README.md  
+### Hi there �  
 
 Here are some ideas to get you started:
 
